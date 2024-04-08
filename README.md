@@ -2,7 +2,7 @@
 
 This folder contains the code to execute a sentiment analysis on international statements on Israel, Palestine and the Hamas, with data sourced from DiplomaticPulse (https://diplomaticpulse.org/en/).
   
-## exploratory-codes
+## exploratory-code
 
 This folder contains exploratory codes with various approaches tried in the process of creating the final pipeline to perform the sentiment analysis on the DiplomaticPulse data.
 
